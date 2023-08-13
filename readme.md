@@ -28,8 +28,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/nertasawad/power-plant.git
-   cd power-plant
+   git clone https://github.com/netra-sawad/virtual-power-plant-system.git
+   cd virtual-power-plant-system
 
 2. Configure MySQL Properties (Optional): 
 
